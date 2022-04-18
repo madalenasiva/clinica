@@ -1,0 +1,50 @@
+
+    ul{
+        list-style-type: nome;
+        margin: 0%;
+        padding: 0%;
+        overflow: hidden;
+        background-color: orchid;
+        position: nome;
+        top: 0%;
+        width: 90;
+
+    }
+    li{
+        float: left;
+    }
+    li a {
+        display: block;
+        color: black ;
+        text-align: center;
+        padding: 16px 20px;
+        text-decoration: nome;
+
+    }
+    li a:hover{
+        color: blue;
+        background-color: black;
+
+    }
+    bory{
+        background-image:url(foto\ medico\ copy.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+article{
+    padding: 20px;
+    margin-top: 29px;
+    height: 150px;
+    color: black;
+}
+:active{
+    background-color: black;
+}
+img{
+    width: 500px;
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+
